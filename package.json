@@ -1,0 +1,21 @@
+{
+  "name": "azure-mid-q4",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000w\u0000e\u0000b\u0000a\u0000p\u0000p\u0000-\u0000T\u0000a\u0000h\u0000i\u0000r\u0000I\u0000q\u0000b\u0000a\u0000l\u0000-\u00005\u00005\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malick947/webapp-TahirIqbal-55.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/malick947/webapp-TahirIqbal-55/issues"
+  },
+  "homepage": "https://github.com/malick947/webapp-TahirIqbal-55#readme"
+}
